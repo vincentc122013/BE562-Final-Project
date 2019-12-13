@@ -9,4 +9,4 @@ allBarcodes is used to initialize the transition matrix in FelsenMCMC_Main
 
 train_setDREAM2019 contains the ground truth trees in newick format
 
-Thanks!
+This project was completed with Zhonghao Dai and Weida Ma. Thanks!

@@ -12,5 +12,3 @@ train_setDREAM2019 contains the ground truth trees in newick format
 This work was completed with Zhonghao Dai and Weida Ma and the final report is attached for those interested in our project. 
 
 The idea stemmed from a challenge proposed by the Allen Institute in partnership with DREAM, and the data used was originally from the Elowitz Lab at Caltech. (Link: https://www.synapse.org/#!Synapse:syn20692755/wiki/595096) 
-
-Thanks!

@@ -1,5 +1,5 @@
-# BE562-Final-Project
-BE562 Final Project: Cell-Lineage Reconstruction using Felsenstein's and MCMC
+# cell_lineage_reconstruction_using_felsensteins_and_MCMC
+Cell-Lineage Reconstruction using Felsenstein's and MCMC
 
 FelsenMCMC_Main is the script that runs the algorithm calling the functions felsensteintree and allposparents
 

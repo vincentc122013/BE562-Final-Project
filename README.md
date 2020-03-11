@@ -1,5 +1,4 @@
-# cell_lineage_reconstruction_using_felsensteins_and_MCMC
-Cell-Lineage Reconstruction using Felsenstein's and MCMC
+# Cell-Lineage Reconstruction using Felsenstein's Algorithm and Monte Carlo Markov Chains
 
 FelsenMCMC_Main is the script that runs the algorithm calling the functions felsensteintree and allposparents
 
